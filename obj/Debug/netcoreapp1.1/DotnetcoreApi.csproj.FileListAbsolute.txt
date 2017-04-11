@@ -1,0 +1,8 @@
+C:\Users\gtoadmin\projects\dotnetcoreapi\bin\Debug\netcoreapp1.1\DotnetcoreApi.deps.json
+C:\Users\gtoadmin\projects\dotnetcoreapi\bin\Debug\netcoreapp1.1\DotnetcoreApi.runtimeconfig.json
+C:\Users\gtoadmin\projects\dotnetcoreapi\bin\Debug\netcoreapp1.1\DotnetcoreApi.runtimeconfig.dev.json
+C:\Users\gtoadmin\projects\dotnetcoreapi\bin\Debug\netcoreapp1.1\DotnetcoreApi.dll
+C:\Users\gtoadmin\projects\dotnetcoreapi\bin\Debug\netcoreapp1.1\DotnetcoreApi.pdb
+C:\Users\gtoadmin\projects\dotnetcoreapi\obj\Debug\netcoreapp1.1\DotnetcoreApi.AssemblyInfo.cs
+C:\Users\gtoadmin\projects\dotnetcoreapi\obj\Debug\netcoreapp1.1\DotnetcoreApi.dll
+C:\Users\gtoadmin\projects\dotnetcoreapi\obj\Debug\netcoreapp1.1\DotnetcoreApi.pdb
